@@ -1,4 +1,4 @@
-## Olá eu sou o Jansen da Imersão IA da ALURA 👋
+## Olá eu sou o Jansen na Imersão IA da ALURA 👋
 
 <!-- 
 ## Olá eu sou o Jansen do curso de Mestrado da UTFPR 👋
